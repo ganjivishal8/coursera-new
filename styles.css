@@ -1,15 +1,18 @@
 *{
   box-sizing: border-box;
+  margin: 5px;
+  padding:5px;
 }
 body {
-  background-color: blanchedalmond;
+  background-color: grey;
+  background-image: url('ocean.jpeg');
 }
 h1{
   color: cadetblue;
 }
 .a{
   background-color: seagreen;
-  margin: 25px 50px 75px 100px;
+  margin: 200px;
 }
 div.a {
   border-style: dotted;
